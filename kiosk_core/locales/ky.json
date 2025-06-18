@@ -1,0 +1,26 @@
+{
+  "print_document": "Документти басып чыгаруу",
+  "copy_document": "Документти көчүрүү",
+  "scan_document": "Документти сканерлөө",
+  "ask_question": "Суроо берүү",
+  "price_list": "Кызматтардын баасы",
+  "become_partner": "Өнөктөш болуу",
+  "select_source": "Документ булагын тандаңыз",
+  "from_usb": "USB аркылуу",
+  "from_telegram": "Telegram аркылуу",
+  "from_library": "Китепканадан",
+  "from_web": "Web-сервис аркылуу",
+  "back": "Артка",
+  "payment": "Төлөм",
+  "pay_now": "QR менен төлөө",
+  "paid": "Төлөндү",
+  "copies": "Көчүрмө саны",
+  "start_copy": "Көчүрүүнү баштоо",
+  "session_expired": "Сессиянын убактысы бүттү",
+  "select_pages": "Басып чыгаруу үчүн беттерди тандаңыз",
+  "selected_file": "Документ тандалды",
+  "print_settings": "Барактарды тандоо",
+  "continue": "Алыга",
+  "home": "Башкы бет"
+
+}

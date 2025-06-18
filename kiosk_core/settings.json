@@ -1,0 +1,8 @@
+{
+  "price_per_page": 10,
+  "copy_price_per_page": 10,
+  "timeout_sec": 300,
+  "max_pages": 50,
+  "device_id": "TON-001",
+  "enable_ad": true
+}

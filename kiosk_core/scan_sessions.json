@@ -1,0 +1,51 @@
+{
+  "scan_f8be0112": {
+    "file_path": "data/scans/scanned_1.pdf",
+    "used": false
+  },
+  "scan_2eedfc41": {
+    "file_path": "data/scans/scan_20250517_142815.pdf",
+    "used": false
+  },
+  "scan_15a83cc7": {
+    "file_path": "data/scans/scan_20250517_145205.pdf",
+    "used": false
+  },
+  "scan_20651852": {
+    "file_path": "data/scans/scan_20250517_145333.pdf",
+    "used": false
+  },
+  "scan_42d7d8e3": {
+    "file_path": "data/scans/scan_20250517_145856.pdf",
+    "used": false
+  },
+  "scan_94e957de": {
+    "file_path": "data/scans/scan_20250517_151009.pdf",
+    "used": false
+  },
+  "scan_bba61d9c": {
+    "file_path": "data/scans/scan_20250517_152559.pdf",
+    "used": false
+  },
+  "scan_6cb355d5": {
+    "file_path": "data/scans/scan_20250517_154312.pdf",
+    "download_url": "file:///home/test/Документы/1/kiosk_core/data/scans/scan_20250517_154312.pdf",
+    "used": false
+  },
+  "scan_c36eed49": {
+    "file_path": "data/scans/scan_20250517_155145.pdf",
+    "download_url": "file:///home/test/Документы/1/kiosk_core/data/scans/scan_20250517_155145.pdf",
+    "used": false
+  },
+  "scan_9d773060": {
+    "file_path": "data/scans/scan_20250517_155555.pdf",
+    "download_url": "file:///home/test/Документы/1/kiosk_core/data/scans/scan_20250517_155555.pdf",
+    "used": false
+  },
+  "scan_05f3f21b": {
+    "file_path": "/home/test/Документы/1/kiosk_core/data/scans/scan_20250517_161032.pdf",
+    "rel_path": "../../../data/scans/scan_20250517_161032.pdf",
+    "download_url": "file:///home/test/Документы/1/kiosk_core/data/scans/scan_20250517_161032.pdf",
+    "used": true
+  }
+}

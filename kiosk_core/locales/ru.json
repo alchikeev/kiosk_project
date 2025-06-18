@@ -1,0 +1,26 @@
+{
+  "print_document": "Распечатать документ",
+  "copy_document": "Копировать документ",
+  "scan_document": "Сканировать документ",
+  "ask_question": "Задать вопрос",
+  "price_list": "Прайс всех услуг",
+  "become_partner": "Стать партнёром",
+  "select_source": "Выберите источник документа",
+  "from_usb": "С флешки",
+  "from_telegram": "Через Telegram",
+  "from_library": "Из библиотеки",
+  "from_web": "С Web-сервиса",
+  "back": "Назад",
+  "payment": "Оплата",
+  "pay_now": "Оплатить через QR-код",
+  "paid": "Оплачено",
+  "copies": "Количество копий",
+  "start_copy": "Начать копирование",
+  "session_expired": "Сессия истекла",
+  "select_pages": "Выберите страницы для печати",
+  "selected_file": "Выбран файл",
+  "print_settings": "Параметры печати",
+  "continue": "Продолжить",
+  "home": "Домой"
+
+}

@@ -1,0 +1,21 @@
+{
+  "print_document": "Print Document",
+  "copy_document": "Copy Document",
+  "scan_document": "Scan Document",
+  "ask_question": "Ask a Question",
+  "price_list": "Service Price List",
+  "become_partner": "Become a Partner",
+  "select_source": "Select Document Source",
+  "from_usb": "From USB",
+  "from_telegram": "From Telegram",
+  "from_library": "From Library",
+  "from_web": "From Web Service",
+  "back": "Back",
+  "payment": "Payment",
+  "pay_now": "Pay via QR code",
+  "paid": "Paid",
+  "copies": "Number of Copies",
+  "start_copy": "Start Copying",
+  "session_expired": "Session Expired",
+  "select_pages": "Select Pages for Printing"
+}

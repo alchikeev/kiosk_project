@@ -1,0 +1,79 @@
+/* --- Общий фон шапки --- */
+#HeaderWidget {
+    background-color: #f5f5f5;
+    border-bottom: 1px solid #cccccc;
+}
+
+/* --- Заголовок SAPAT 3.0 --- */
+#HeaderTitle {
+    font-size: 32px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    qproperty-alignment: AlignCenter;
+}
+
+/* --- Кнопки языка --- */
+QPushButton#langButton {
+    font-size: 12px;
+    padding: 3px 8px;
+    border: none;
+    background-color: transparent;
+}
+
+QPushButton#langButton:hover {
+    background-color: #e0e0e0;
+    border-radius: 4px;
+}
+
+/* --- Главный блок меню --- */
+#MainMenuWidget {
+    background-color: transparent;
+}
+
+/* --- Стиль кнопок главного меню --- */
+QPushButton#MenuRed {
+    background-color: #ff4d4f;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 12px;
+}
+
+QPushButton#MenuBlue {
+    background-color: #1890ff;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 12px;
+}
+
+QPushButton#MenuOrange {
+    background-color: #faad14;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 12px;
+}
+
+QPushButton#MenuPurple {
+    background-color: #722ed1;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 12px;
+}
+
+QPushButton#MenuRed:hover,
+QPushButton#MenuBlue:hover,
+QPushButton#MenuOrange:hover,
+QPushButton#MenuPurple:hover {
+    background-color: #444444;
+}
+
+QPushButton#MenuBlue {
+    background-color: #1890ff;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 12px;
+}
